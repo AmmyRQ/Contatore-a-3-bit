@@ -4,3 +4,5 @@ Per resettare l'account viene utilizzato un interrupt, tramite un pulsante di pu
 Il progetto utilizza una frequenza di clock di 4 MHz.
 
 Questo progetto è stato sviluppato utilizzando Proteus Design Suite.
+
+[Microcontrollore PIC16F84A](https://ww1.microchip.com/downloads/en/DeviceDoc/35007b.pdf)
